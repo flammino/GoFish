@@ -1,8 +1,7 @@
 ***Go Fish Game***
 
 *In progress (don't pick this task up)*
-
-Card class- Joshua Sterling
+---
 
 
 **Contributors:**
