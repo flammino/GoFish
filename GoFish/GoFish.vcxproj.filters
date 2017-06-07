@@ -24,11 +24,11 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Player.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
     <ClInclude Include="Card.h">
-      <Filter>Source Files</Filter>
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -36,6 +36,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="GoFish.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ResponsiveComputerPlayer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
